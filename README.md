@@ -20,3 +20,10 @@ Add:
   ROBOT MODEL == Description_topic - /robot_discription
   Laser Scan == Topic - /scan
   Map == Topic - /map
+
+**Hardware**
+
+To get the odometry data: 
+
+POS_output.ino file is for the arduino mega, ita will provide motor rotation data to raspberry pi through serial communication.
+It also contains PID controller, if a value is provided the motors will spin provided angle. ( Used for autonomous nevigation).
