@@ -1,4 +1,4 @@
-** Simluation ** 
+**Simluation** 
 To launch robot model in gazebo:
 
 ros2 launch articubot_one launch_sim.launch.py 
