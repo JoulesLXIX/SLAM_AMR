@@ -1,3 +1,6 @@
+ROS2 : HUMBLE
+UBUNTU : 22.04.4
+
 **Simluation** 
 
 To launch robot model in gazebo:
